@@ -1,0 +1,13 @@
+C:\Users\Fusionstak\source\repos\Seg\bin\Debug\netcoreapp3.1\Seg.exe
+C:\Users\Fusionstak\source\repos\Seg\bin\Debug\netcoreapp3.1\Seg.deps.json
+C:\Users\Fusionstak\source\repos\Seg\bin\Debug\netcoreapp3.1\Seg.runtimeconfig.json
+C:\Users\Fusionstak\source\repos\Seg\bin\Debug\netcoreapp3.1\Seg.runtimeconfig.dev.json
+C:\Users\Fusionstak\source\repos\Seg\bin\Debug\netcoreapp3.1\Seg.dll
+C:\Users\Fusionstak\source\repos\Seg\bin\Debug\netcoreapp3.1\Seg.pdb
+C:\Users\Fusionstak\source\repos\Seg\obj\Debug\netcoreapp3.1\Seg.csprojAssemblyReference.cache
+C:\Users\Fusionstak\source\repos\Seg\obj\Debug\netcoreapp3.1\Seg.AssemblyInfoInputs.cache
+C:\Users\Fusionstak\source\repos\Seg\obj\Debug\netcoreapp3.1\Seg.AssemblyInfo.cs
+C:\Users\Fusionstak\source\repos\Seg\obj\Debug\netcoreapp3.1\Seg.csproj.CoreCompileInputs.cache
+C:\Users\Fusionstak\source\repos\Seg\obj\Debug\netcoreapp3.1\Seg.dll
+C:\Users\Fusionstak\source\repos\Seg\obj\Debug\netcoreapp3.1\Seg.pdb
+C:\Users\Fusionstak\source\repos\Seg\obj\Debug\netcoreapp3.1\Seg.genruntimeconfig.cache
